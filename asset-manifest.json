@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Kea-mandatory-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Kea-mandatory-react/static/js/main.173bdb9a.chunk.js",
+    "main.js.map": "/Kea-mandatory-react/static/js/main.173bdb9a.chunk.js.map",
+    "runtime-main.js": "/Kea-mandatory-react/static/js/runtime-main.21eb8b6e.js",
+    "runtime-main.js.map": "/Kea-mandatory-react/static/js/runtime-main.21eb8b6e.js.map",
+    "static/js/2.43153eda.chunk.js": "/Kea-mandatory-react/static/js/2.43153eda.chunk.js",
+    "static/js/2.43153eda.chunk.js.map": "/Kea-mandatory-react/static/js/2.43153eda.chunk.js.map",
+    "index.html": "/Kea-mandatory-react/index.html",
+    "precache-manifest.f2586bfc47ef020946d7d4afeb3fc447.js": "/Kea-mandatory-react/precache-manifest.f2586bfc47ef020946d7d4afeb3fc447.js",
+    "service-worker.js": "/Kea-mandatory-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Kea-mandatory-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.43153eda.chunk.js.LICENSE.txt": "/Kea-mandatory-react/static/js/2.43153eda.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Kea-mandatory-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21eb8b6e.js",
+    "static/js/2.43153eda.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.173bdb9a.chunk.js"
+  ]
+}
